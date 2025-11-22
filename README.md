@@ -20,7 +20,7 @@ Use this repo as a template to deploy a Python FastAPI server over Render.
 
 3. Simply click:
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Celine96/kakao-naver-news-ai-agent)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Celine96/ella_vibe-news-ai-agent)
 
 ## Note
 
